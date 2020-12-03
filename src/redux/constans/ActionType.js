@@ -1,0 +1,12 @@
+export const GET_CATEGORY = "GET_CATEGORY";
+export const GET_NEW_PRODUCT = "GET_NEW_PRODUCT";
+export const GET_LIST_PRODUCT = "GET_LIST_PRODUCT";
+export const GET_DETAIL_PRODUCT = "GET_DETAIL_PRODUCT";
+
+
+
+
+
+
+
+
